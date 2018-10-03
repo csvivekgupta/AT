@@ -1,0 +1,24 @@
+Tools or applications that are used in development of this Project
+1 . Anaconda for python
+2 . SQLITE as database - embedded with Python
+3 . Eclipse - portable version available
+4 . PyDev plugin for eclipse - downloaded from Eclipse market place
+5 . SQLiteStudio - Free and portable version available
+6 . Database File Name - ATDatabase.db
+7 . Database File Location/Place Holder - D:\VivekLearning\ATProject\SQLiteDBFile\
+
+
+
+
+
+
+
+For future -
+1 . Docker
+2 . Git
+3 . Unit Testing
+4 . Integration Testing
+5 . Regression Testing
+6 . Automated Testing
+7 . Automatic Deployment
+8 . Automated build of project like used to do with MAVEN.
